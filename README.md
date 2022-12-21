@@ -1,7 +1,7 @@
-### Hi there! Eu sou a Karolen. 👋
+### Olé! Eu sou a Karolen 
 
-🌱Estudando: HTML, CSS e JavaScript
-😃Pronomes: ela/dela
+<p> 🌱Estudando: HTML, CSS e JavaScript</p>
+<p>😃Pronomes: ela/dela</p>
 
 <div align="center">
   <a href="https://github.com/karolencg">
