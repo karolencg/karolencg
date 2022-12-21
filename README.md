@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1929E&width=435&lines=Hi!+My+name+is+Karolen;23+years+old;I'm+from+Brazil;Be+welcome!+" alt="Typing SVG" /></a>
-<p>
+
 -🌱Estudando: HTML, CSS e JavaScript
 -😃Pronomes: ela/dela
-</p>
+
 
 <div align="center">
   <a href="https://github.com/karolencg">
