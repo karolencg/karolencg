@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1929E&width=435&lines=Hi!+My+name+is+Karolen;23+years+old;I'm+from+Brazil;Be+welcome!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1929E&width=435&lines=Hi!+My+name+is+Karolen;24+years+old;I'm+from+Brazil;Be+welcome!+" alt="Typing SVG" /></a>
 <ul>
 <li>Estudando: Análise e Desenvolvimento de Sistemas.</li>
 <li>Pronomes: ela/dela</li>
@@ -23,5 +23,3 @@
   <a href = "mailto:karolencg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/karolencg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-
-![snake gif](https://github.com/karolencg/karolencg/blob/output/github-contribution-grid-snake.svg)
